@@ -1,0 +1,17 @@
+{
+    "Name": "TestMod",
+    "Version": "0.0.1",
+    "UniqueId": "me.darkeyedragon.testmod",
+    "MinimumApiVersion": "0.5.0",
+    "MinimumGameVersion": "0.2.8",
+    "EntryDll": "ShaderTest.dll",
+
+    "Assets": [
+      {
+        "Prefix":"TestMod",
+        "Scenes":[
+          "InGame"
+        ]
+      }
+    ]
+  }

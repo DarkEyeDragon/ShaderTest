@@ -1,0 +1,10 @@
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\bin\Debug\netstandard2.1\ShaderTest.deps.json
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\bin\Debug\netstandard2.1\ShaderTest.dll
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\bin\Debug\netstandard2.1\ShaderTest.pdb
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\obj\Debug\netstandard2.1\ShaderTest.csproj.AssemblyReference.cache
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\obj\Debug\netstandard2.1\ShaderTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\obj\Debug\netstandard2.1\ShaderTest.AssemblyInfoInputs.cache
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\obj\Debug\netstandard2.1\ShaderTest.AssemblyInfo.cs
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\obj\Debug\netstandard2.1\ShaderTest.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\obj\Debug\netstandard2.1\ShaderTest.dll
+C:\Users\Joshua\RiderProjects\ShaderTest\ShaderTest\obj\Debug\netstandard2.1\ShaderTest.pdb
